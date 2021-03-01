@@ -2,7 +2,7 @@
 
 Pentru a rula aceasta etapa (in linie de comanda):
 
-#### 1. `git clone https://github.com/razvancir96/react-curs10.git`
+#### 1. `git clone https://github.com/IonIon14/Project-2-React.git`
 
 #### 2. `cd react-curs10`
 
