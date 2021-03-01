@@ -1,4 +1,4 @@
-## JavaScript Advanced - Curs 10
+## JavaScript Advanced -Proiect 2
 
 Pentru a rula aceasta etapa (in linie de comanda):
 
