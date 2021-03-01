@@ -1,0 +1,13 @@
+.star{
+    cursor:pointer;
+    transition:color 200ms;
+    -webkit-transition:color 200ms;
+    -moz-transition:color 200ms;
+    -ms-transition:color 200ms;
+    -o-transition:color 200ms;
+}
+
+
+input[type="radio"]{
+    display: none;
+}

@@ -1,0 +1,21 @@
+header .logo {
+    width: 220px;
+    height: auto;
+}
+
+header .logout:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+header{
+    width:100%;
+    top:0;
+    left:0;
+}
+
+.favorite-link{
+    position: absolute;
+    right:5%;
+}
+

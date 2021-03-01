@@ -1,0 +1,31 @@
+/* Stilizari pentru pagina de login */
+.login-page {
+    margin: 0;
+    padding: 0;
+    /* Cu 100vh ocupam toata inaltimea viewport-ului */
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-page img {
+    margin-top: 20vh;
+    width: 200px;
+}
+
+.facebook-button{
+    height: 65px;
+    width:255px;
+}
+
+.google-button{
+    height: 65px;
+    width:255px;
+}
+
+.tech-logo{
+    width: 600px;
+    height: auto;
+}

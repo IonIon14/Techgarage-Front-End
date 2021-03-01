@@ -1,0 +1,236 @@
+{
+    "monitors": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Monitor LCD Lenovo ThinkVision S27i-10 , 27",
+                "price": 819,
+                "currency": "LEI",
+                "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/3/136724_1.jpg",
+                "size": 27,
+                "colour": "Negru",
+                "material": "Metal",
+                "brand": "Lenovo",
+                "description": "Monitor Gaming,ideal atat pentru incepatori cat si pentru avansati."
+            },
+            {
+                "id": 2,
+                "name": "Monitor curbat gaming LED ViewSonic VX2758-PC-MH, 27,Full HD,144Hz",
+                "price": 1159.90,
+                "currency": "LEI",
+                "image": "https://s1.flanco.ro/catalog/product/cache/368/small_image/201x201/9df78eab33525d08d6e5fb8d27136e95/1/3/139874-1.jpg",
+                "size": 27,
+                "colour": "Negru",
+                "material": "Metal",
+                "brand": "ViewSonic",
+                "description": "Ecran curbat pentru reducerea stresul ocular si perceperea adancimii reale"
+            },
+            {
+                "id": 3,
+                "name": "Monitor LED Acer RT240Y, 23/8 inch, Full HD",
+                "price": 680,
+                "currency": "LEI",
+                "image": "https://s1.flanco.ro/catalog/product/cache/368/small_image/201x201/9df78eab33525d08d6e5fb8d27136e95/u/m/um-qr0ee-005_1.jpg",
+                "size": 23,
+                "colour": "Negru",
+                "material": "Metal",
+                "brand": "Acer",
+                "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
+            }
+        ],
+        "image": "https://s1.flanco.ro/catalog/category/resized/800x800/monitoare_pc_1.jpg",
+        "name": "Monitoare PC",
+        "description": "Alege un monitor cu rezolutie excelenta!"
+    },
+    "videoCard": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Placa video GIGABYTE GeForce RTX 3090 GAMING OC 24GB GDDR6X",
+                "price": 13499,
+                "currency": "LEI",
+                "image": "https://s1.cel.ro/images/Products/placa-video-gigabyte-geforce-rtx-3090-gaming-oc-24gb-gddr6x-384-bit-644.jpg",
+                "size": "24 GB",
+                "colour": "Negru",
+                "material": "Metal",
+                "brand": "GeForce",
+                "description": "Suport pentru tehnologia NVIDIA NVLink ™ (NVIDIA SLI), care combină 2 GPU-uri identice cu un GeForce RTX NVLink Bridge"
+            },
+            {
+                "id": 5,
+                "name": "Placa video Biostar AMD Radeon RX 550 4GB GDDR5",
+                "price": 649,
+                "currency": "LEI",
+                "image": "https://s1.cel.ro/images/Products/placa-video-biostar-amd-radeon-rx550-4gb-gddr5-128-bit.jpg",
+                "size": "4 GB",
+                "colour": "Negru",
+                "material": "Metal ",
+                "brand": "AMD Radeon",
+                "description": "Placa video Biostar AMD Radeon RX550 4GB 128bit, memorie: 4GB GDDR5, frecventa memorie: 6000MHz, procesor grafic: RX 550, frecventa procesor grafic: 1071MHz"
+            },
+            {
+                "id": 6,
+                "name": "Placa video GIGABYTE GeForce GTX 1050 Ti D5 4GB GDDR5",
+                "price": 1299,
+                "currency": "LEI",
+                "image": "https://s1.cel.ro/images/Products/placa-video-gigabyte-geforce-gtx-1050ti-d5-4gb-gddr5-128bit.jpg",
+                "size": "4 GB",
+                "colour": "Gri",
+                "material": "Metal",
+                "brand": "Gigabyte GeForce",
+                "description": "O placa video buna pentru gamerii incepatori dar si experimentati"
+            },
+            {
+                "id": 7,
+                "name": "Placa video Zotac GeForce GT 730 Zone Edition 2GB DDR3 64Bit",
+                "price": 271,
+                "currency": "LEI",
+                "image": "https://s1.cel.ro/images/Products/placa-video-zotac-geforce-gt-730-zone-edition-2gb-ddr3-64bit-low-profile.jpg",
+                "size": "2 GB",
+                "colour": "Gri",
+                "material": "Metal",
+                "brand": "Zotac GeForce",
+                "description": "O placa video buna pentru gamerii incepatori dar si experimentati"
+            }
+        ],
+        "image": "https://s1.flanco.ro/catalog/category/resized/800x800/placi_video_1.jpg",
+        "name": "Placi video",
+        "description": "Placa video de inalta calitate."
+    },
+    "motherboard": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Placa de baza GIGABYTE AORUS B450 PRO Socket",
+                "price": 472,
+                "currency": "LEI",
+                "image": "https://s1.cel.ro/images/Products/placa-de-baza-gigabyte-aorus-b450-pro-socket-am4.jpg",
+                "size": "N/A",
+                "colour": "Negru deschis",
+                "material": "Metal",
+                "brand": "Gigabyte",
+                "description": "Placa de baza de ultima generatie"
+            },
+            {
+                "id": 9,
+                "name": "Placa de baza Gigabyte B550 AORUS ELITE AX V2, Socket AM4",
+                "price": 851.19,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/32493/32492755/images/res_cf4fd109a253a293bc85d2f6cac35351.jpg?width=450&height=450&hash=2E949E214BD3F198D0AF4C2E8CCEDC6E",
+                "size": "N/A",
+                "colour": "Negru-gri",
+                "material": "Metal",
+                "brand": "Gigabyte",
+                "description": "Performanta fara limite este garantata de solutia termica avansata, care include radiator Fins-Array, tuburi termice cu atingere direct si protectie termica. "
+            }
+        ],
+        "image": "https://s1.cel.ro/images/mari/placa-de-baza-gigabyte-h310m-a-socket-1151-v2.jpg",
+        "name": "Placi de baza",
+        "description": "Verifica noutatea in placile de baza de la Asus,Gigabite,etc..."
+    },
+    "processor": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Procesor Intel Core i5-9400F, 2.9 GHz, 9MB, fara grafica integrata, Socket 1151    ",
+                "price": 690,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/19662/19661176/images/res_9178d54587df9f1453d1273dbdd6f86a.jpg?width=450&height=450&hash=A055F026F2DDE4A058610E310B685A6F",
+                "size": "9 MB",
+                "colour": "Argintiu",
+                "material": "Metal",
+                "brand": "Intel",
+                "description": "Computerele desktop si dispozitivele mobile pot lucra mai mult, pot porni mai repede si pot sustine grafica la rezolutii mari datorita procesoarelor din seria Intel Core."
+            },
+            {
+                "id": 11,
+                "name": "Procesor AMD Ryzen™ 7 5800X, 36MB, 4.7GHz, Socket AM4",
+                "price": 2199,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/33357/33356155/images/res_c88c513dbc2a246a90e01854aa1cf2d9.jpg?width=450&height=450&hash=669218D0B3A67B8DCFBF0299391184D2",
+                "size": "36 MB",
+                "colour": "Negru",
+                "material": "Metal fin",
+                "brand": "Ryzen",
+                "description": "Procesoarele AMD Ryzen ™ au toate cele mai bune caracteristici pentru a va mentine in joc. Cu o mare putere de procesare vine tehnologiile de ultima ora pentru a fi suportate. "
+            }
+        ],
+        "image": "https://www.pchouse.ro/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/core_i7_1.jpg",
+        "name": "Procesoare",
+        "description": "Cumpara procesor de mare viteza!"
+    },
+    "RAM": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Memorie HyperX Fury Black 8GB, DDR4, 2400MHz, CL15, 1.2V",
+                "price": 181,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/25091/25090404/images/res_69c988e73f6e571bb29f7f4ac49e8640.jpg?width=450&height=450&hash=46C62573148752149E9394186ADC4E6F",
+                "size": "8 GB",
+                "colour": "Verde/Negru",
+                "material": "Plastic",
+                "brand": "HyperX Fury",
+                "description": "HyperX® FURY DDR4 ajunge la cea mai mare frecventa publicata, pana la 3466MHz, oferind un impuls Plug N Play pentru jocuri, editare video si redare. FURY DDR4 este pregatit pentru XMP si disponibil in viteze de 2400 MHz – 3466 MHz, latente CL15–16, capacitati de un singur modul de 4 GB – 16 GB si seturi de kit de 16 GB – 64 GB. "
+            },
+            {
+                "id": 13,
+                "name": "Memorie Kingston, 8GB DDR4, 2666MHz CL19",
+                "price": 170,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/34229/34228414/images/res_00464fc82fe67eb88b2ef8e1a3ddbb80.jpg?width=450&height=450&hash=3224D76DEE0DA939421E086A1FFEE595",
+                "size": "8 GB",
+                "colour": "Verde",
+                "material": "Plastic",
+                "brand": "Kingston",
+                "description": "Memoria Kingston este proiectata, fabricata si testata riguros pentru a indeplini specificatiile exacte ale fiecarui sistem. Este garantat ca este compatibil cu o varietate de sisteme si asigura fiabilitatea legendara Kingston."
+            },
+            {
+                "id": 14,
+                "name": "Memorie HP, 4GB DDR4, 2666MHz CL19",
+                "price": 94.95,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/34505/34504118/images/res_65cb84e147f5ea8079a99e12396bd93f.jpg?width=450&height=450&hash=70EAA6B0602B4EC72E2EB299D4ED8657",
+                "size": "4 GB",
+                "colour": "Galben-Negru",
+                "material": "Plastic",
+                "brand": "HP",
+                "description": "Modulele DDR4 SDRAM de mare viteza utilizeaza dispozitive DDR4 SDRAM cu doua sau patru grupuri de banci de memorie interne. "
+            }
+        ],
+        "image": "data:image/jpeg;base64,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",
+        "name": "Memorie RAM",
+        "description": "Upgradeaza ti PC cu memorie RAM mare"
+    },
+    "accesories": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Mouse gaming Razer DeathAdder V2, cablu SpeedFlex, 20K DPI, iluminare Chroma RGB",
+                "price": 238,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/27962/27961801/images/res_a0c9993dabc90faad346cd577137a263.jpg?width=450&height=450&hash=8083F61040392314C0B954D65A7575F9",
+                "size": "Universal",
+                "colour": "Negru cu verde",
+                "material": "Plastic",
+                "brand": "Razer",
+                "description": "Razer DeathAdder V2 continua aceasta traditia lansata de predecesorul sau, pastrandu-si forma faimoasa, reducand in acelasi timp mai mult greutatea pentru o manevrare si mai rapidal. Trecand dincolo de ergonomia conventionala a biroului, designul optimizat ofera, de asemenea, un confort mai mare pentru gaming - important pentru acele raid-uri lungi sau atunci cand vrei sa cresti in rang."
+            },
+            {
+                "id": 16,
+                "name": "Casti Gaming HunterSpider V3 Pro, Surround Sound 7.1, Super Deep Bass, Lumina LED, Pentru PC / XBOX / PS",
+                "price": 119,
+                "currency": "LEI",
+                "image": "https://s13emagst.akamaized.net/products/29103/29102220/images/res_c9477dd7180ead095ece753aea712b0e.jpg?width=450&height=450&hash=E61898FDA8FA8F012E7C4397085662BC",
+                "size": "Universala",
+                "colour": "Negru cu albastru",
+                "material": "Plastic",
+                "brand": "HunterSpider",
+                "description": "Casti gaming pentru o calitate sonora excelenta si un bass puternic."
+            }
+        ],
+        "image": "data:image/jpeg;base64,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",
+        "name": "Periferice PC/Accesorii",
+        "description": "Mouse,Tastaturi,Casti gaming,la pret exclusiv"
+    }
+}
