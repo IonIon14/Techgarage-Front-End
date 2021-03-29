@@ -1,4 +1,4 @@
-## JavaScript Advanced -Proiect 2
+## JavaScript Advanced using React
 
 Pentru a rula aceasta etapa (in linie de comanda):
 
@@ -6,10 +6,7 @@ Pentru a rula aceasta etapa (in linie de comanda):
 
 #### 2. `cd react-curs10`
 
-#### 3. `npm install` (posibil sa dureze)
-
-#### ATENTIE! 
-Pentru a functiona logarea cu Firebase, pornind de la fisierul `firebase.template.js`, din folderul configs, modificati propritatile obiectului `firebaseConfig` cu cele corespunzatoare aplicatiei voastre(din consola Firebase, Project Settings). De asemenea, fisierul trebuie redenumit `firebase.js` pentru a functiona.
+#### 3. `npm install` 
 
 #### 4. `npm start`
 
